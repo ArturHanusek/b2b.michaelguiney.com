@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^/?api/(.*)$ / [R,L]
+RewriteRule ^/?api/(.*)$ /b2b/ [R,L]
