@@ -1,5 +1,5 @@
 <?php
-dd(1);
+echo(1);
 // index.php
-header("Location: https://guineys.ie");
+//header("Location: https://guineys.ie");
 exit();
